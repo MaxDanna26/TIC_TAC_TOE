@@ -1,0 +1,14 @@
+C:\Users\Maxim\OneDrive\Escritorio\.net\TIC_TOC_TOE\TIC_TOC_TOE\bin\Debug\TIC_TOC_TOE.exe.config
+C:\Users\Maxim\OneDrive\Escritorio\.net\TIC_TOC_TOE\TIC_TOC_TOE\bin\Debug\TIC_TOC_TOE.exe
+C:\Users\Maxim\OneDrive\Escritorio\.net\TIC_TOC_TOE\TIC_TOC_TOE\bin\Debug\TIC_TOC_TOE.pdb
+C:\Users\Maxim\OneDrive\Escritorio\.net\TIC_TOC_TOE\TIC_TOC_TOE\obj\Debug\TIC_TOC_TOE.csproj.AssemblyReference.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\TIC_TOC_TOE\TIC_TOC_TOE\obj\Debug\TIC_TOC_TOE.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\TIC_TOC_TOE\TIC_TOC_TOE\obj\Debug\TIC_TOC_TOE.exe
+C:\Users\Maxim\OneDrive\Escritorio\.net\TIC_TOC_TOE\TIC_TOC_TOE\obj\Debug\TIC_TOC_TOE.pdb
+C:\Users\Maxim\OneDrive\Escritorio\NET\TIC_TOC_TOE\TIC_TOC_TOE\obj\Debug\TIC_TOC_TOE.csproj.AssemblyReference.cache
+C:\Users\Maxim\OneDrive\Escritorio\NET\TIC_TOC_TOE\TIC_TOC_TOE\obj\Debug\TIC_TOC_TOE.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\OneDrive\Escritorio\NET\TIC_TOC_TOE\TIC_TOC_TOE\obj\Debug\TIC_TOC_TOE.exe
+C:\Users\Maxim\OneDrive\Escritorio\NET\TIC_TOC_TOE\TIC_TOC_TOE\obj\Debug\TIC_TOC_TOE.pdb
+C:\Users\Maxim\OneDrive\Escritorio\NET\TIC_TOC_TOE\TIC_TOC_TOE\bin\Debug\TIC_TOC_TOE.exe.config
+C:\Users\Maxim\OneDrive\Escritorio\NET\TIC_TOC_TOE\TIC_TOC_TOE\bin\Debug\TIC_TOC_TOE.exe
+C:\Users\Maxim\OneDrive\Escritorio\NET\TIC_TOC_TOE\TIC_TOC_TOE\bin\Debug\TIC_TOC_TOE.pdb
